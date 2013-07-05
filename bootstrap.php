@@ -1,7 +1,5 @@
 <?php
 
-require_once __DIR__ . '/vendor/autoload.php';
-
 // Required by a lot of scripts (<?php defined('SYSPATH') OR die('No direct script access.');)
 define('SYSPATH', __DIR__ . DIRECTORY_SEPARATOR);
 
