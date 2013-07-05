@@ -1,6 +1,6 @@
 {
 	"name"        : "logical-and/kohana-core-packagist",
-	"version"     : "3.3",
+	"version"     : "3.3.0",
 	"license"     : "MIT",
 	"keywords"    : ["kohana", "kohana-core", "core"],
 	"minimum-stability": "beta",
