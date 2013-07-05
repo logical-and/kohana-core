@@ -3,7 +3,7 @@
 	"version"     : "3.3.0",
 	"license"     : "MIT",
 	"keywords"    : ["kohana", "kohana-core", "core"],
-	"minimum-stability": "beta",
+	"minimum-stability": "stable",
 	"autoload": {
 		"psr-0": { "": "classes/" }
 	}
