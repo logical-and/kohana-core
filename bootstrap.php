@@ -12,4 +12,5 @@ Kohana::$config = new Kohana_Config;
 Kohana::$config->attach(new Kohana_Config_File);
 
 // Imitate request, to make possible use user_agent, accept_lang etc
-Request::factory();
+// Used only if in environment doesn't used another Request class (collision)
+if (! class_exists('Request', FALSE)) Request::factory();
