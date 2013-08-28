@@ -1,5 +1,5 @@
 {
-	"name"        : "logical-and/kohana-core-packagist",
+	"name"        : "and/kohana-core",
 	"version"     : "3.3.0",
 	"license"     : "MIT",
 	"keywords"    : ["kohana", "kohana-core", "core"],
